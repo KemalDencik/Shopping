@@ -7,6 +7,7 @@ A new Flutter project.
 ![alışveriş 2](https://user-images.githubusercontent.com/110173521/228278436-bc3ee2db-2ac4-479c-b8ba-1ffea230cf26.PNG)
 ![alışveriş3](https://user-images.githubusercontent.com/110173521/228278450-681db6c7-6191-45c1-8961-099505e85f43.PNG)
 ![alışveriş 4](https://user-images.githubusercontent.com/110173521/228279071-54524fcb-9f82-49a9-99f6-de0f3a361278.PNG)
+![alışveriş 5](https://user-images.githubusercontent.com/110173521/228279209-5ddba683-dafd-4ead-850a-7dabdcee2c2e.PNG)
 ![alışveriş 6](https://user-images.githubusercontent.com/110173521/228278499-2890bb94-6494-45c5-9cc0-783777185e41.PNG)
 
 
